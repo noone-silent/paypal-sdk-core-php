@@ -3,7 +3,8 @@
 
 ## For composer.json add
 
-```php
+```json
+{
   "repositories": [
     {
       "type": "package",
@@ -88,4 +89,5 @@
       }
     }
   ]
+}
 ```
